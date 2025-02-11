@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nom": "Finance",
+        "couleur": "#38b26f"
+    },
+    {
+        "id": 2,
+        "nom": "Sport",
+        "couleur": "#214e70"
+    },
+    {
+        "id": 3,
+        "nom": "IA",
+        "couleur": "#a0a901"
+    },
+    {
+        "id": 4,
+        "nom": "Culture",
+        "couleur": "#6deac4"
+    },
+    {
+        "id": 5,
+        "nom": "Santé",
+        "couleur": "#da0189"
+    },
+    {
+        "id": 6,
+        "nom": "Tourisme",
+        "couleur": "#38b26f"
+    }
+]
